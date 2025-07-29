@@ -26,4 +26,13 @@ with open(filename,'r+')as file:
     file.seek(0)
     print("\n file after writing by r+")
     print(file.read())
-    
+    OUTPUT:
+    latest data:
+My  favourite colour is Pink.
+
+
+ enter to overwrite from begging... Gopi
+
+ file after writing by r+
+Gopifavourite colour is Pink.
+-----------------------------------------------------------------------------------------------------
